@@ -1,0 +1,153 @@
+<html lang="en">
+
+<head>
+  <header>
+    <h1>Welcome E-Learners.</h>
+    <p><img src="e.jpeg" width= "500" height="250"></p>
+    </header>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> e Learner</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+      <head>
+        <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: lightgreen;
+      color: black;
+      padding: 20px;
+      text-align: left;
+    }
+    main {
+      padding: 20px;
+    }
+    footer {
+      background-color: #333333;
+      color: #FFFFFF;
+      padding: 10px;
+      text-align: center;
+    }
+  </style>
+        <style>
+           .video-container {
+      max-width: 600px; /* Adjust the width as per your requirements */
+      margin: 0 auto; /* Center the video container horizontally */
+    }
+    .video-container video {
+      width: 100%;
+      height: auto;
+    }
+          </style>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+            </ul>
+        </nav>
+  </header>
+    <main>
+        <section>
+            <a href="#" class="btn">Get Started</a>
+        </section>
+        <section>
+          <h2>All You need is here.</h2>
+            <h2>Courses</h2>
+            <ul>
+                <li>
+                    <h3>Digital Marketing</h3>
+                    <p>The term "digital marketing" describes the use of digital platforms and tools to advertise goods, services, and brands. It includes a range of methods and tactics used in internet marketing with the goal of connecting with and engaging a target audience. In order to link businesses with potential customers and encourage desired behaviours, such completing a purchase or signing up for a newsletter, digital marketing makes use of the power of the internet and digital gadgets.</p>
+                  <div class="video-container">
+    <video controls>
+      <source src="path/to/your/video.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+      </div>
+                    <p>CLICK HERE TO SUBSCRIBE -:  <a href="#">https://youtube.com/shorts/6nG9mlg3p20?feature=share</a></p>
+                </li>
+                <li>
+                    <h3>MS Excel</h3>
+                    <p>For organising, analysing, and manipulating data, many people utilise the spreadsheet programme Microsoft Excel. It offers a grid-based user interface that enables users to enter and manage data in cells arranged in rows and columns. Calculations, data analysis, visualisation, data manipulation, automation, teamwork, and data import/export are all functions available in Excel. It is extensively utilised across many industries for activities including financial modelling, data tracking, and reporting.</p>
+                   <div class="video-container">
+    <video controls>
+      <source src="path/to/your/video.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+      </div>
+                   <p>CLICK HERE TO SUBSCRIBE -:  <a href="#">https://youtube.com/shorts/6nG9mlg3p20?feature=share</a></p>
+                </li>
+                <li>
+                    <h3>Python</h3>
+                    <p>A popular programming language noted for its simplicity and adaptability is Python. Both novice and seasoned developers can use it because of its emphasis on readability and simplicity. Python has a large ecosystem of libraries and frameworks that expand its functionality and support a variety of programming paradigms.</p>
+                   <div class="video-container">
+    <video controls>
+      <source src="path/to/your/video.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+      </div>
+                    <p>CLICK HERE TO SUBSCRIBE -:  <a href="#">https://youtube.com/shorts/6nG9mlg3p20?feature=share</a></p>
+                </li>
+                <li>
+                    <h3>Adobe indesign</h3>
+                  <p>Professional desktop publishing tools like Adobe InDesign are used to plan and design layouts for both print and digital publications. It offers a comprehensive collection of features and tools that let users format and create documents with accuracy and originality. Users can design visually appealing layouts, work with text and photos, add interactive components, and format files for printing or digital dissemination with InDesign. In the publishing industry, it is frequently used for projects like producing magazines, brochures, books, and interactive PDFs.</p>
+                   <div class="video-container">
+    <video controls>
+      <source src="path/to/your/video.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+      </div>
+                  <p>CLICK HERE TO SUBSCRIBE -:  <a href="#">https://youtube.com/shorts/6nG9mlg3p20?feature=share</a></p>
+                </li>
+                <li>
+                    <h3>Full stack web devlpoment</h3>
+                  <p>The construction of a website or web application's front-end and back-end components is referred to as "full stack web development." A full stack web developer can manage the complete web development process since they are knowledgeable in both client-side (front-end) and server-side (back-end) technologies.</p>
+                   <div class="video-container">
+    <video controls>
+      <source src="path/to/your/video.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+      </div>
+                    <p>CLICK HERE TO SUBSCRIBE -:  <a href="#">https://youtube.com/shorts/6nG9mlg3p20?feature=share</a></p>
+                </li>
+                <li>
+                    <h3>Angular Mean stack</h3>
+                  <p>The MongoDB, Express.js, Angular, and Node.js (or MEAN stack) technology stack is a well-liked web development technology stack.</p>
+                   <div class="video-container">
+    <video controls>
+      <source src="path/to/your/video.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+      </div>
+                   <p>CLICK HERE TO SUBSCRIBE -:  <a href="#">https://youtube.com/shorts/6nG9mlg3p20?feature=share</a></p>
+                </li>
+                <li>
+                    <h3>Ethical Hacking</h3>
+                  <p>White-hat hacking, sometimes referred to as ethical hacking or penetration testing, is the practise of finding security flaws and holes in computer networks, software applications, and systems in a morally and legally correct way. Ethical hackers utilise their knowledge and expertise to proactively find potential security holes that hostile hackers could exploit, and they are frequently permitted to do so by the system owner.</p>
+                   <div class="video-container">
+    <video controls>
+      <source src="path/to/your/video.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+      </div>
+                    <p>CLICK HERE TO SUBSCRIBE -:  <a href="#">https://youtube.com/shorts/6nG9mlg3p20?feature=share</a></p>
+                  <p>----------------------------************************************--------------------------
+                </li>
+            </ul>
+        </section>
+  </main>
+    <footer>
+      <p>Contacts details- +918167345717/ +917908316600</p>
+      <p>E-mail - rajenverma330@gmail.com/ rohitremo288@gmail.com</p>
+      <p>You can reach out to us for queries.</p>
+        <p>Thank you for visiting our Website(Learn with us Grow with us).
+        <p>&copy; 2023 e Learner. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
